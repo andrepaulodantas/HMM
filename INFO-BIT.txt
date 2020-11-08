@@ -1,0 +1,4 @@
+A principal modificação é que cada uma das variáveis de entrada deve possuir uma média e um desvio padrão para cada estado, para simplificar fiz todas possuindo a mesma média e o desvio padrão.
+ Mas, com novas features isso pode deixar de ser verdade. Essa modificação não é complicada, mas pode levar algum tempo para fazer o teste se funcionou corretamente.
+
+Agora só modificar isso para ficar com parâmetros independentes
